@@ -1,0 +1,20 @@
+A:B D H I L O
+B:A D H I K L N R T
+C:E O R
+D:A B I L P R T
+E:C I J L P
+F:I M P R S
+G:O P T
+H:A B I K N R
+I:A B D E F H L M
+J:E N
+K:B H N R
+L:A B D E I R S
+M:F I O
+N:B H J K Q R T
+O:A C G M P T
+P:D E F G O R
+Q:N T
+R:B C D F H K L N P
+S:F L
+T:B D G N O Q

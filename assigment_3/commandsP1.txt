@@ -1,0 +1,29 @@
+AU
+AU A
+AU A B
+AU W Z
+AU W A
+RU
+RU A B
+RU Z
+RU S
+AR
+AR A
+AR Z A
+AR A Z
+AR A B
+AR E T
+RR
+RR A
+RR Z A
+RR Q B
+RR E J
+PA
+PA 100
+PA 5
+SA
+SA Z 3
+SA Q 10
+SA C 3
+SA C 2
+XX X X

@@ -1,0 +1,59 @@
+Welcome to Assignment 3 (Part1)
+-------------------------------
+Error: Wrong input type for 'AU'!
+Error: Wrong input type for 'AU'!
+This user already exists!!
+There is no user named 'Z'
+User 'W' has been added and tied to 'A' successfully
+Error: Wrong input type! for 'RU'!
+Error: Wrong input type! for 'RU'!
+There is no user named 'Z'!!
+User 'S' and its all relations have been removed successfully.
+Error: Wrong input type! for 'AR'!
+Error: Wrong input type! for 'AR'!
+No user named 'Z' or 'A' found!!
+No user named 'A' or 'Z' found!!
+A relation between 'A' and 'B' already exists!!
+Relation between 'E' and 'T' has been added succesfully.
+Error: Wrong input type! for 'RR'!
+Error: Wrong input type! for 'RR'!
+No user named 'Z' or 'A' found!!
+No relation between 'Q' and 'B' found!!
+A relation between 'E' and 'J' has been removed successfully.
+Error: Wrong input type! for 'PA'!
+Invalid input since n is greater than 20
+User 'A' has 7 friends
+User 'C' has 3 friends
+User 'B' has 9 friends
+User 'E' has 5 friends
+User 'D' has 7 friends
+User 'G' has 3 friends
+User 'F' has 4 friends
+User 'I' has 8 friends
+User 'H' has 6 friends
+User 'K' has 4 friends
+User 'J' has 1 friends
+User 'M' has 3 friends
+User 'L' has 6 friends
+User 'O' has 6 friends
+User 'N' has 7 friends
+User 'Q' has 2 friends
+User 'P' has 6 friends
+User 'R' has 9 friends
+User 'T' has 7 friends
+User 'W' has 1 friends
+1. 'B': 9
+2. 'R': 9
+3. 'I': 8
+4. 'A': 7
+5. 'D': 7
+Error: Wrong input type! for 'SA'!
+No user named 'Z' found!!
+User 'Q' has less friend than 10
+Suggestion List for 'C' (when MD is 3):
+'C' has 3 mutual friends with P
+Suggestion List for 'C' (when MD is 2):
+'C' has 2 mutual friends with L
+'C' has 3 mutual friends with P
+'C' has 2 mutual friends with T
+Error: Undefined command type!
